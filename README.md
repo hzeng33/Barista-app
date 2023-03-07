@@ -10,9 +10,7 @@ The game will generate a new drink order for you and ask you to compose it. You 
 
 ## Project Demo
 
-🌐 [See the project deployed here!](https://quiet-macaron-ca013a.netlify.app/)
-
-![demo for lab in gif form](readme_demo.gif)
+![demo for lab in gif form](https://github.com/hzeng33/Barista-app/blob/main/barista-app_walkthrough.gif)
 
 ## Setup
 
